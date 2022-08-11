@@ -17,7 +17,7 @@ global.emoji01 = ['🐼'] // 👈 Enter your Emoji
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
 *لــقـــمـــان/>ڪـࢪوز❦︎🤍•! Ξ*
-*I am 16 years old developer...*
+*عــمــࢪي 16 و انـا مـطـوࢪ الــبوتـات...*
 *From morocco*
 *I am a Learning.*
 *Not more..*
