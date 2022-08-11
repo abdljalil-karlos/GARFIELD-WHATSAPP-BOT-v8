@@ -22,7 +22,7 @@ global.notice = ` *Hi 🥰 I m*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
+*Follow My youtoub - https://youtu.be/qm6ywhlvDKQ*`  // 👈 Enter Your details and Social Media Links and Anything
 global.owner =  ['+212661809542'] //👈  Enter Your number
 global.premium =  ['+212661809542'] //👈  Enter Your number
 global.ownernomer = '+212661809542' //👈  Enter Your number
